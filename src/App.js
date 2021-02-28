@@ -64,6 +64,7 @@ function App() {
   const completeTask = index => {
     const newTasks = [...tasks];
     newTasks[index].isCompleted = true;
+    newTasks.splice(index, 1);
     setTasks(newTasks);
     setPoints(points + 30);
   }
