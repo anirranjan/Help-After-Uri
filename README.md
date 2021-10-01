@@ -1,5 +1,5 @@
 # Help After Uri - HackUTD 2021 Submission
-A web application made to help Texans recover from the February Snow Storm
+A website made to help Texans recover from the February Snow Storm
 
 ## Motivation
 
